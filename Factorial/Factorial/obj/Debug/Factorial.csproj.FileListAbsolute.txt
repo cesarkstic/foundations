@@ -1,0 +1,5 @@
+C:\Users\cdcas\source\foundations\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\cdcas\source\foundations\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\cdcas\source\foundations\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\cdcas\source\foundations\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\cdcas\source\foundations\Factorial\Factorial\obj\Debug\Factorial.pdb
